@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
 </div>
 </details>
-[![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/APURVA122?year=2024Extd)](https://gssoc.girlscript.tech)
+
 
 
 <!---
