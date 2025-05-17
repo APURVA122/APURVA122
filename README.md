@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @APURVA122
-- 👀 I’m interested in Programming, Innovation 
+- 👀 I’m interested in Innovation 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects  
 - - 📫 How to reach me: mj8893854@gmail.com
