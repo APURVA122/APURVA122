@@ -1,7 +1,7 @@
 -# 👋 Hi, I'm Apurva Jain
 
 🎓 B.Tech CSE | 📍 JIIT Noida  
-💡 Hackathon Enthusiast | 👨‍💻 Frontend Developer | 🌱 Learning DSA by Striver
+💡 Hackathon Enthusiast | 👨‍💻 Frontend Developer
 
 ---
 
