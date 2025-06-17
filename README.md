@@ -26,7 +26,7 @@ I'm a passionate and curious developer who loves turning ideas into impactful te
 
 ## 📌 Featured Individual Projects
 
-- 🔹 **LifeHack-O-Meter** – AI-based productivity tool with voice modes [Live Link](https://apurva122.github.io/Hack-O-Meter/)  
+- 🔹 **LifeHack-O-Meter** – AI-based tool with voice modes [Live Link](https://apurva122.github.io/Hack-O-Meter/)  
 
 
 
