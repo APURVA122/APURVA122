@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apurva Jain</h1>
+<h1 align="center">Hi , I'm Apurva Jain</h1>
 <p align="center">
   🎓 B.Tech CSE @ JIIT Noida <br>
   💡👨‍💻 Frontend Dev | 💡 Hackathon Builder | 📚 DSA Enthusiast
