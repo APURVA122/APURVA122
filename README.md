@@ -43,8 +43,8 @@ Whether it's building clean frontends with React or collaborating on GitHub, I l
 
 ## 🌟 Featured Projects
 
-- 🔹 [**LifeHack-O-Meter**](https://apurva122.github.io/Hack-O-Meter/) – AI-based tool with voice modes  
-- 🔹 [**SkillSprint**](https://apurva122.github.io/SkillSprint/) – Resume booster & coding tracker  
+- 🔹 [**LifeHack-O-Meter**](https://apurva122.github.io/Hack-O-Meter/) – A fun-based web app with quirky voice modes for productivity and entertainment  
+- 🔹 [**SkillSprint**](https://apurva122.github.io/SkillSprint/) – A tool to find & track high-quality free tech courses across platforms  
 
 ---
 
