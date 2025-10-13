@@ -76,7 +76,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apurva-jain-9462a7330/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" style="margin: 0 10px;"/></a>
-  <a href="mailto:mj8893854@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" style="margin: 0 10px;"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mj8893854@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" style="margin: 0 10px;"/>
+</a>
   <a href="https://github.com/APURVA122"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" width="40" height="40" style="margin: 0 10px;"/></a>
 </p>
 
