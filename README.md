@@ -1,9 +1,7 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Apurva Jain</h1>
 <h3 align="center">💻 Frontend Developer | 🌟 Hackathon Builder | 📚 DSA Enthusiast</h3>
 
-<a href="https://komarev.com/ghpvc/?username=APURVA122">
-  <img src="https://komarev.com/ghpvc/?username=APURVA122&label=Profile%20views&color=ff69b4&style=flat-square" />
-</a>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" width="100%">
