@@ -1,8 +1,6 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Apurva Jain</h1>
 <h3 align="center">💻 Frontend Developer | 🌟 Hackathon Builder | 📚 DSA Enthusiast</h3>
 
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" width="100%">
 </p>
@@ -67,19 +65,30 @@
 
 ---
 
-## 🏅Open Sources Achievements & Badges
+## 🏅 Open Source Achievements & Badges
 
-<div align="center"> <h3>🎖 GSSoC Badges</h3> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /> </div>
+<div align="center">
+
+### 🧡 Postman Student Expert  
+<a href="https://api.badgr.io/public/assertions/0WzprTVKTYKzyTaq9J0JjA?identity__email=mj8893854%40gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px"/>
+</a>
+
+### 🌳 Hacktoberfest Badges  
+<a href="https://holopin.io/@apurva122" target="_blank">
+  <img src="https://holopin.me/apurva122" alt="Hacktoberfest badges" width="800"/>
+</a>
+
+</div>
+
 ---
 
 ## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apurva-jain-9462a7330/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" style="margin: 0 10px;"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mj8893854@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" style="margin: 0 10px;"/>
-</a>
-  <a href="https://github.com/APURVA122"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" width="40" height="40" style="margin: 0 10px;"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mj8893854@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" style="margin: 0 10px;"/></a>
+  <a href="https://github.com/APURVA122" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" width="40" height="40" style="margin: 0 10px;"/></a>
 </p>
 
 ---
