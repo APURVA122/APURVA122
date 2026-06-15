@@ -17,7 +17,7 @@
 
 - 🎓 B.Tech CSE @ **JIIT, Noida**  
 - 💡 Passionate about **frontend development**, **AI/ML**, and **building creative tools**  
-- 🧠 Currently learning **React**, **Node.js**, and exploring **AI-powered apps**  
+- 🧠 Currently exploring **AI-powered apps**  
 - 🚀 Love participating in **hackathons** & contributing to **open-source projects**  
 - 💬 Ask me about **DSA**, **Web Dev**, or **Hackathon Projects**  
 
