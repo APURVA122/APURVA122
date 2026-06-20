@@ -43,6 +43,7 @@
 |-------------|--------------|----------------|
 | **LifeHack-O-Meter** | [🌐 View](https://apurva122.github.io/Hack-O-Meter/) | A fun productivity app with quirky voice modes 🎙️ |
 | **SkillSprint** | [🌐 View](https://apurva122.github.io/SkillSprint/) | Discover and track top free tech courses 🧠 |
+| **GlowMind AI** | [🌐 View](https://glowmind-mkql.vercel.app/) | AI-powered aesthetic notes sidebar 🧠✨ |
 
 </div>
 
